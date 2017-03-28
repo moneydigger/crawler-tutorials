@@ -4,3 +4,5 @@
 [scrapy tutorial](https://doc.scrapy.org/en/latest/index.html)
 
 [Python爬虫学习系列教程](http://cuiqingcai.com/1052.html)
+
+[weibo爬虫](https://github.com/moneydigger/SinaSpider)
